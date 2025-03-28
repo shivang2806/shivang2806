@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Shivang Jindal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p>- 💬 Ask me about ** Laravel, Express.js, Vue.js**</p>
+<p>- 💬 Ask me about <b> Laravel, Express.js, Vue.js</b></p>
 
 <h2>💻 Tech Stack</h2>
 <ul>
