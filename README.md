@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang</h1>
 
 <h3 align="center">A young 🤓 back end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://avatars.githubusercontent.com/u/82794887?v=4 alt=shivangjindal/> </p>
+<p align="left"></p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/shivang-jindal/" target="blank"></a> </p>
 
