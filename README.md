@@ -3,7 +3,7 @@
 <h3 align="center">A young 🤓 back end developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://avatars.githubusercontent.com/u/82794887?v=4 alt=shivangjindal/> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/shivang-jindal/" target="blank"><img src="https://avatars.githubusercontent.com/u/82794887?v=4" alt="shivangjindal" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/shivang-jindal/" target="blank"></a> </p>
 
 - 💬 Ask me about **backend, Laravel and Express.js**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivang-jindal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivang-jindal" target="blank"></a>
 </p>
 
 <!-- BLOG-POST-LIST:START -->
